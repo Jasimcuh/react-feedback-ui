@@ -14,7 +14,7 @@ function App() {
   return (
     <FeedbackProvider>
       <Router>
-      <Header text="Feedback UI! (Jasim)" bgColor="rgba(0,0,0,0.4)" />
+      <Header text="Feedback UI!" bgColor="rgba(0,0,0,0.4)" />
       <div className="container">
         <Routes>
           <Route
